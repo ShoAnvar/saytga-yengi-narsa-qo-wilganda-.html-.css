@@ -1,0 +1,36 @@
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(https://st3.depositphotos.com/1316534/15557/i/950/depositphotos_155579102-stock-photo-office-desk-table-with-laptop.jpg);
+	background-position: center;
+	color: #fff !important;
+	background-size: cover;
+}
+.services{
+	margin: 90px auto;
+	text-align: center;
+}
+h1{
+	font-family: sans-serif;
+	letter-spacing: 1px;
+}
+h1:after{
+	content: '';
+	background: white;
+	display: block;
+	width: 150px;
+	margin: 10px auto;
+	height: 3px;
+
+}
+.icon{
+	font-size: 40px;
+	margin: 20px auto;
+	padding: 3%;
+	height: 80px;
+	width: 80px;
+	border: 1px solid white;
+	border-radius: 50%;
+}
+.col-md-3:hover{
+	box-shadow: 5px 7px 9px -3px rgba(255,255,255,0.5);
+	cursor: pointer;
+}
