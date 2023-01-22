@@ -1,0 +1,1 @@
+# saytga-yengi-narsa-qo-wilganda-.html-.css
